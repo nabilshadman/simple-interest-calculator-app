@@ -1,2 +1,2 @@
 # Simple Interest Calculator
-A simple interest calculator developed with HTML/CSS/JavaScript
+A simple interest calculator web app developed with HTML/CSS/JavaScript
