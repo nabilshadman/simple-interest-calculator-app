@@ -76,8 +76,5 @@ This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENS
 ## Acknowledgments
 
 - Built by [nabilshadman](https://github.com/nabilshadman)
+- Based on a project from [IBM Developer Skills Network](https://github.com/ibm-developer-skills-network/vftvk-Simple-Interest-Calculator)
 - Special thanks to all contributors
-
----
-
-Made with ❤️ by nabilshadman
